@@ -1,0 +1,15 @@
+D:\Sample\CurrencyConverter\Convert\bin\Debug\net6.0\Convert.exe
+D:\Sample\CurrencyConverter\Convert\bin\Debug\net6.0\Convert.deps.json
+D:\Sample\CurrencyConverter\Convert\bin\Debug\net6.0\Convert.runtimeconfig.json
+D:\Sample\CurrencyConverter\Convert\bin\Debug\net6.0\Convert.dll
+D:\Sample\CurrencyConverter\Convert\bin\Debug\net6.0\ref\Convert.dll
+D:\Sample\CurrencyConverter\Convert\bin\Debug\net6.0\Convert.pdb
+D:\Sample\CurrencyConverter\Convert\obj\Debug\net6.0\Convert.csproj.AssemblyReference.cache
+D:\Sample\CurrencyConverter\Convert\obj\Debug\net6.0\Convert.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sample\CurrencyConverter\Convert\obj\Debug\net6.0\Convert.AssemblyInfoInputs.cache
+D:\Sample\CurrencyConverter\Convert\obj\Debug\net6.0\Convert.AssemblyInfo.cs
+D:\Sample\CurrencyConverter\Convert\obj\Debug\net6.0\Convert.csproj.CoreCompileInputs.cache
+D:\Sample\CurrencyConverter\Convert\obj\Debug\net6.0\Convert.dll
+D:\Sample\CurrencyConverter\Convert\obj\Debug\net6.0\ref\Convert.dll
+D:\Sample\CurrencyConverter\Convert\obj\Debug\net6.0\Convert.pdb
+D:\Sample\CurrencyConverter\Convert\obj\Debug\net6.0\Convert.genruntimeconfig.cache
