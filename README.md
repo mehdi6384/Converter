@@ -1,2 +1,2 @@
 # Convertor
-Implement currency convertor by strategy pattern and multithreaded singleton
+Implement currency converter by strategy pattern and multithreaded singleton
