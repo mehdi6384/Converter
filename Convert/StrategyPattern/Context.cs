@@ -30,10 +30,8 @@ public sealed class Context
         _strategy = strategy;
     }
 
-    public void ConvertCurrency(double amount)
+    public double ConvertCurrency(double amount)
     {
-        var result = _strategy.Convert(amount);
-
-        Console.WriteLine($"Result of convert is: {result}");
+        return _strategy.Convert(amount);
     }
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Sample\\CurrencyConverter\\Convert\\Convert.csproj": {}
+    "G:\\Sample\\Convertor\\Convert\\Convert.csproj": {}
   },
   "projects": {
-    "D:\\Sample\\CurrencyConverter\\Convert\\Convert.csproj": {
+    "G:\\Sample\\Convertor\\Convert\\Convert.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Sample\\CurrencyConverter\\Convert\\Convert.csproj",
+        "projectUniqueName": "G:\\Sample\\Convertor\\Convert\\Convert.csproj",
         "projectName": "Convert",
-        "projectPath": "D:\\Sample\\CurrencyConverter\\Convert\\Convert.csproj",
-        "packagesPath": "D:\\Users\\sm.hosseini\\.nuget\\packages\\",
-        "outputPath": "D:\\Sample\\CurrencyConverter\\Convert\\obj\\",
+        "projectPath": "G:\\Sample\\Convertor\\Convert\\Convert.csproj",
+        "packagesPath": "C:\\Users\\mehdi63\\.nuget\\packages\\",
+        "outputPath": "G:\\Sample\\Convertor\\Convert\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "D:\\Users\\sm.hosseini\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mehdi63\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

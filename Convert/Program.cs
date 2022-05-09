@@ -1,23 +1,15 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-using Convert.StrategyPattern;
+using Convert;
 
 Parallel.Invoke(
-        () => Convert1(),
-        () => Convert2()
+        () => Convert(60),
+        () => Convert(80)
     );
 
-static void Convert1()
+static void Convert(double amount)
 {
-    var context = Context.GetInstance;
-    context.SetStrategy(new ConvertCadToEur());
-    context.ConvertCurrency(60);
+    var currencyConverter = CurrencyConverter.GetInstance;
+    var result = currencyConverter.Convert("CAD", "EUR", amount);
+    Console.WriteLine($"Result of convert {amount} CAD is: {result} EUR");
 }
-
-static void Convert2()
-{
-    var context = Context.GetInstance;
-    context.SetStrategy(new ConvertCadToEur());
-    context.ConvertCurrency(80);
-}
-//Console.WriteLine("Hello, World!");

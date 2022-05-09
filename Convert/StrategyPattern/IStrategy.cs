@@ -2,5 +2,5 @@
 
 public interface IStrategy
 {
-    object Convert(double amount);
+    double Convert(double amount);
 }
